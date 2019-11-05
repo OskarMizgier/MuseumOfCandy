@@ -21,3 +21,20 @@ body {
 #MainNavbar .nav-link:hover {
     color: #EA1C2C;
 }
+
+#slash {
+    color: red;
+}
+
+h1 {
+    font-weight: 100;
+    color: white;
+    font-size: 4rem;
+}
+
+
+@media (max-width: 1200px) { 
+    #FirstSectionHeading {
+        font-size:3rem;
+    }
+}
