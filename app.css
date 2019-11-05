@@ -32,6 +32,22 @@ h1 {
     font-size: 4rem;
 }
 
+.SecondSection {
+    font-weight: 100;
+    color: #EA1C2C;
+}
+
+.lead {
+    letter-spacing: 1px;
+    font-weight: 100;
+    color: black;
+    font-size: 1rem;
+}
+
+.content {
+    margin-top: 100px;
+}
+
 
 @media (max-width: 1200px) { 
     #FirstSectionHeading {
